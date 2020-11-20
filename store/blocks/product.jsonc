@@ -65,7 +65,9 @@
   },
   "sku-selector": {
     "props": {
-      "initialSelections": "empty"
+      "initialSelections": "empty",
+      "shoeValueForVariation": "image",
+      "showVariationsErrorMessage": true
     }
   }
 }
