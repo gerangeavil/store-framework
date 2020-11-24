@@ -30,7 +30,7 @@
     "props": {
       "inverted": true,
       "sticky": true,
-      "fullWidth": true
+      "fullWidth": false
     },
     "children": [
       "logo",
@@ -58,7 +58,7 @@
   
     "props": {
       "sticky": true,
-      "inverted":true
+      "inverted": true
     }
   },
   
